@@ -1,5 +1,3 @@
-    {
-      "unid": 5203,
       "crdb": "Chevrolet_MonteCarloRaceCarF9_1995",
       "awar": false,
       "grsp": [
@@ -657,4 +655,3 @@
       "need": false,
       "cmlv": 0,
       "isra": false
-    }
